@@ -1,0 +1,12 @@
+{
+  "name": "quest",
+  "version": "0.1.0",
+  "type": "module",
+  "bin": {
+    "quest": "./src/index.ts"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@types/bun": "latest"
+  }
+}
